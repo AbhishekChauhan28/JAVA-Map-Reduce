@@ -1,0 +1,9 @@
+Write a MapReduce program to find out the dates with Hot day and Cold Day. If
+maximum temperature on a day is greater than 30 then mark that day as “Hot Day” and
+if minimum temperature on a day is lower than 10 mark that day as “Cold Day”, in
+Weather Data.
+Output Key-Value:
+Key
+Date
+Value
+Hot Day/ Cold Day
