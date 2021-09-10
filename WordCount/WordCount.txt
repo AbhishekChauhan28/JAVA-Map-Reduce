@@ -1,0 +1,7 @@
+Write a MapReduce program to count the number of occurrences of each word and
+provide output as follows:
+Output
+Word
+Word Count
+a 1 (As the word ‘a’ occurred only once)
+this 2 (As the word ‘this’ occurred twice)
