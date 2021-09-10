@@ -1,0 +1,9 @@
+Write a MapReduce program to process a given patent dataset with patent records.
+Each patent has sub-patent id’s associated with it. You need to calculate the number of
+sub-patents associated with each patent.
+Here is the sample output:
+Patent
+Number of Associated Sub-patents
+1 13
+2 10
+3 4
